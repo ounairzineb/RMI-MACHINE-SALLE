@@ -1,6 +1,5 @@
 # RMI-MACHINE-SALLE
 
-# RMI_MACHINE_SALLE
 Ce projet représente un système Java axé sur la gestion des machines, la gestion des salles et la recherche des machines d'une salle spécifiée. 
 Il intègre une interface graphique conviviale développée avec Java Swing et utilise la technologie RMI (Remote Method Invocation) pour une communication fluide entre les clients et le serveur.
 
